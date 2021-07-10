@@ -1,0 +1,7 @@
+{
+    "uri": "wss://www.lbkex.net/ws/V2/",
+    "variance": 0.01,
+    "pair": "babydoge_usdt",
+    "bot": "<put your telegram bot token here",
+    "chatid": "put your destination telegram chat id / group / channel here"
+}

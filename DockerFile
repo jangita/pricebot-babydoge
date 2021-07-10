@@ -1,0 +1,8 @@
+FROM alpine
+
+RUN apk add python3 py3-pip && pip install pipenv
+
+WORKDIR /app
+COPY . .
+
+ENTRYPOINT ["pipenv","run","python","run.py"]
