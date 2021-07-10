@@ -2,6 +2,6 @@
     "uri": "wss://www.lbkex.net/ws/V2/",
     "variance": 0.01,
     "pair": "babydoge_usdt",
-    "bot": "1758541017:AAFfb1ZQij30FvXqu7OeJk163hxWzKH-94E",
-    "chatid": "@h5mb3"
+    "bot": "put your telegram bot ID here",
+    "chatid": "put your chatid, channel, or group here"
 }
